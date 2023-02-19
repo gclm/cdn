@@ -1,5 +1,5 @@
 {
-  "directlink": [
+  "m3u8": [
     {
       "name": "量子资源",
       "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
@@ -83,7 +83,7 @@
       "comment": "爱奇艺，优酷，腾讯，芒果tv,乐视，搜狐等资源"
     }
   ],
-  "zonghe": [
+  "art": [
     {
       "name": "融兴资讯",
       "url": "https://www.rongxingvr.cc/api.php/provide/art/?ac=list&mid=2",
@@ -99,8 +99,8 @@
       "comment": "文章采集 影视资讯 娱乐八卦 影视剧照"
     }
   ],
-  "mingxing": [],
-  "gg": "<tr><td><a target='_blank' href='https://www.maccmsbox.com/moban.html'><b style='color:#01aaed'>免费苹果cms模板无需登录直接下载</b></a></td><td><a target='_blank' href='https://www.dianle.org/thread-704-1-1.html'><b style='color:red'>【点乐】广告联盟推荐，跑路包赔</b></a></td><td><a target='_blank' href='https://www.maccmsbox.com/yingyong.html'><b style='color:#00f'>苹果cms插件下载</b></a></td><td><a target='_blank' href='https://wpa.qq.com/msgrd?@v=3&uin=975211589&site=qq&menu=yes'><b style='color:#ff4500'>切片源码售卖独家接口</b></a></td><td><a target='_blank' href='http://idc.56th.cc/'><b style='color:#006400'>9.9一个月香港服务器</b></a></td></tr><tr><td><a target='_blank' href='https://www.maccmsbox.com/details146.html'><b style='color:#db7093'>免费开源苹果cms弹幕播放器</b></a></td><td><a target='_blank' href='https://www.maccmsbox.com/details159.html'><b style='color:#9400d3'>苹果cms支付对接秒到账</b></a></td><td><a target='_blank' href='http://idc.56th.cc/'><b style='color:red'>国外性价比超好的服务器</b></a></td><td><a target='_blank' href='https://www.datll.com/'><b style='color:#ff5722'>大图设计 海量苹果cms摸吧 插件 app</b></a></td><td><a target='_blank' href='https://api.qd234.cn'><b style='color:#b8860b'>无水印广告秒播切片资源</b></a></td></tr><tr><td><a target='_blank' href='https://www.maccmsbox.com/details146.html'><b style='color:Sienna'>超清秒播无广告切片资源</b></a></td><td><a href='javascript:'><b style='color:red'>广告位联系qq:602524950</b></a></td><td><a href='javascript:'><b style='color:red'>广告位联系qq:602524950</b></a></td><td><a href='javascript:'><b style='color:red'>广告位联系qq:602524950</b></a></td><td><a href='javascript:'><b style='color:red'>广告位联系qq:602524950</b></a></td></tr>",
-  "gonggao": "请使用正版插件，本插件永久免费，无需下载破解等版本",
+  "actor": [],
+  "advertising": "<tr><td><a target='_blank' href='https://www.maccmsbox.com/moban.html'><b style='color:#01aaed'>免费苹果cms模板无需登录直接下载</b></a></td><td><a target='_blank' href='https://www.dianle.org/thread-704-1-1.html'><b style='color:red'>【点乐】广告联盟推荐，跑路包赔</b></a></td><td><a target='_blank' href='https://www.maccmsbox.com/yingyong.html'><b style='color:#00f'>苹果cms插件下载</b></a></td><td><a target='_blank' href='https://wpa.qq.com/msgrd?@v=3&uin=975211589&site=qq&menu=yes'><b style='color:#ff4500'>切片源码售卖独家接口</b></a></td><td><a target='_blank' href='http://idc.56th.cc/'><b style='color:#006400'>9.9一个月香港服务器</b></a></td></tr><tr><td><a target='_blank' href='https://www.maccmsbox.com/details146.html'><b style='color:#db7093'>免费开源苹果cms弹幕播放器</b></a></td><td><a target='_blank' href='https://www.maccmsbox.com/details159.html'><b style='color:#9400d3'>苹果cms支付对接秒到账</b></a></td><td><a target='_blank' href='http://idc.56th.cc/'><b style='color:red'>国外性价比超好的服务器</b></a></td><td><a target='_blank' href='https://www.datll.com/'><b style='color:#ff5722'>大图设计 海量苹果cms摸吧 插件 app</b></a></td><td><a target='_blank' href='https://api.qd234.cn'><b style='color:#b8860b'>无水印广告秒播切片资源</b></a></td></tr><tr><td><a target='_blank' href='https://www.maccmsbox.com/details146.html'><b style='color:Sienna'>超清秒播无广告切片资源</b></a></td><td><a href='javascript:'><b style='color:red'>广告位联系qq:602524950</b></a></td><td><a href='javascript:'><b style='color:red'>广告位联系qq:602524950</b></a></td><td><a href='javascript:'><b style='color:red'>广告位联系qq:602524950</b></a></td><td><a href='javascript:'><b style='color:red'>广告位联系qq:602524950</b></a></td></tr>",
+  "announcement": "请使用正版插件，本插件永久免费，无需下载破解等版本",
   "edition": "1.2.0"
 }
