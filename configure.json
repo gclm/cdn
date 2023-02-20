@@ -28,7 +28,7 @@
       "comment": "图床切片"
     },
     {
-      "name": "无尽",
+      "name": "无尽资源",
       "url": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/at/xml/",
       "gw": "http://www.wujinzy.com/",
       "collectType": "xml",
